@@ -1,5 +1,4 @@
 - name: Send_email
-  if: always()
   uses: dawidd6/action-send-mail@v2
   with:
     # mail server settings
